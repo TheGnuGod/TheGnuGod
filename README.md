@@ -1,5 +1,1 @@
-- 👋 Hi, I’m @TheGnuGod
-- 👀 I’m interested in game development
-- 🌱 I’m currently learning Kotlin. 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+
