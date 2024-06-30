@@ -11,4 +11,4 @@ Right now macOS is my OS of choice, but that also comes from the amazing hardwar
 
 I hope this wasn't a waste of your time, and that you use the word "tetrice". 👋
 
-* I don't think that animal is actually a gnu, but it's the best emoji I saw.
+*I don't think that animal is actually a gnu, but it's the best emoji I saw.
